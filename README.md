@@ -1,8 +1,6 @@
-📊 GitHub Stats & Activity
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=iamvipingirjapure&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=iamvipingirjapure&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvipingirjapure&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 🧠 About Me
 
-💻 Front-End Developer with 2+ years of industry experience
+💻 Front-End Developer with around 3 years of industry experience
 
 📱 Specializing in React Native mobile ecosystem
 
@@ -25,7 +23,10 @@ Testing
 <p> <img src="https://skillicons.dev/icons?i=jest" height="48"/> </p>
 Tools
 <p> <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,jira,figma" height="48"/> </p>
+</br>
+</br>
 💼 Professional Experience
+
 🟣 Senior Software Engineer — XForge Technologies Pvt Ltd
 
 📍 Hyderabad | 🗓️ 02/2025 – 06/2025
@@ -70,11 +71,7 @@ Built production-level understanding of UI architecture
 
 🌐 Connect With Me
 
-📧 Email — vipin.girjapure@gmail.com
-📞 Phone — 8407960987
-🔗 LinkedIn — https://linkedin.com/in/vipingirjapure
-
-🐙 GitHub — https://github.com/iamvipingirjapure
-
-🖥️ Profile Badges
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvipingirjapure&label=Profile+Views&style=flat-square&color=blue" /> <img src="https://img.shields.io/github/followers/iamvipingirjapure?label=Followers&style=flat" /> <img src="https://img.shields.io/github/stars/iamvipingirjapure?label=Stars&style=flat" /> </p>
+📧 Email — vipin.girjapure@gmail.com </br>
+📞 Phone — 8407960987 </br>
+🔗 LinkedIn — https://linkedin.com/in/vipingirjapure </br>
+🐙 GitHub — https://github.com/iamvipingirjapure </br>
