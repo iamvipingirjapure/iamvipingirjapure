@@ -1,4 +1,6 @@
-🧠 About Me
+[🧠 About Me
+
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="iamvipingirjapure's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/iamvipingirjapure?cardType=github&theme=github-dark&preferLogin=false" />  </a>
 
 💻 Front-End Developer with around 3 years of industry experience
 
@@ -11,6 +13,7 @@
 🏙️ Based in Nagpur, Maharashtra
 
 🛠️ Tech Stack
+</br>
 Frontend Core
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" height="48"/> </p>
 Mobile Development
@@ -26,7 +29,7 @@ Tools
 </br>
 </br>
 💼 Professional Experience
-
+</br>
 🟣 Senior Software Engineer — XForge Technologies Pvt Ltd
 
 📍 Hyderabad | 🗓️ 02/2025 – 06/2025
@@ -74,4 +77,3 @@ Built production-level understanding of UI architecture
 📧 Email — vipin.girjapure@gmail.com </br>
 📞 Phone — 8407960987 </br>
 🔗 LinkedIn — https://linkedin.com/in/vipingirjapure </br>
-🐙 GitHub — https://github.com/iamvipingirjapure </br>
