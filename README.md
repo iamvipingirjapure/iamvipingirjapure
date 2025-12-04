@@ -4,8 +4,6 @@
 
 💻 Front-End Developer with around 3 years of industry experience
 
-📱 Specializing in React Native mobile ecosystem
-
 🌐 Building modern React & Next.js applications
 
 🤝 Strong communication — mentoring, collaboration, code quality
